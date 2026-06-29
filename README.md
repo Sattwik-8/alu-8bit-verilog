@@ -64,8 +64,10 @@ An **8-bit Arithmetic Logic Unit (ALU)** designed in **Verilog HDL**, verified u
 ---
 
 ## Verification Result
-Total: 212 PASS, 0 FAIL
-RESULT: ALL TESTS PASSED
+-Total: 212 PASS, 0 FAIL
+
+-RESULT: ALL TESTS PASSED
+
 Full console output available in `waveform/test_summary.png`.
 
 ## Sample Waveform
